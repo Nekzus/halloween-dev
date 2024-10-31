@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { battleHorde } from "./reto-2";
+import { battleHorde } from "./challenge-2";
 
 const TEST_DATA = [
   {

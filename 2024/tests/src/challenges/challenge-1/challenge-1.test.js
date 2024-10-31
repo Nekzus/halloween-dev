@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { createMagicPotion } from "./reto-1";
+import { createMagicPotion } from "./challenge-1";
 
 const TEST_DATA = [
   {

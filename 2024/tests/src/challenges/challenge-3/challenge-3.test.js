@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { findSafestPath } from "./reto-3";
+import { findSafestPath } from "./challenge-3";
 
 const TEST_DATA = [
   {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { findTheKiller } from "./reto-4";
+import { findTheKiller } from "./challenge-4";
 
 const TEST_DATA = [
   {

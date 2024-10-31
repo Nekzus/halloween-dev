@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { escapePyramidHead } from "./reto-5";
+import { escapePyramidHead } from "./challenge-5";
 
 const TEST_DATA = [
   {
