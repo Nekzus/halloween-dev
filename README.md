@@ -25,11 +25,13 @@ This repository documents the solutions for each challenge, with the goal of:
 
 <div align="center">
 
-### Challenge-1: **Create the Perfect Potion** 🧙‍♂️🍵
+### Challenge# 1: **Create the Perfect Potion** 🧙‍♂️🍵
 
-[![Challenge Description for Day 1](./2024/assets/challenge-01.webp)](https://www.halloween.dev/es/retos/2024/1)
+<a href="https://www.halloween.dev/es/retos/2024/1" target="_blank">
+    <img src="./2024/assets/challenge-01.webp" alt="Challenge Description for Day 1" width="300"/>
+</a>
 
-📂 [View solution](./2024/challenges/challenge-1.js)
+👉 📂 [View solution](./2024/challenges/challenge-1.js)
   
 </div>
 
@@ -37,11 +39,13 @@ This repository documents the solutions for each challenge, with the goal of:
 
 <div align="center">
 
-### Challenge-2: **Zombie Horde** 🧟‍♂️🪦
+### Challenge# 2: **Zombie Horde** 🧟‍♂️🪦
 
-[![Challenge Description for Day 2](./2024/assets/challenge-02.webp)](https://www.halloween.dev/es/retos/2024/2)
+<a href="https://www.halloween.dev/es/retos/2024/2" target="_blank">
+    <img src="./2024/assets/challenge-02.webp" alt="Challenge Description for Day 2" width="300"/>
+</a>
 
-📂 [View solution](./2024/challenges/challenge-2.js)
+👉 📂 [View solution](./2024/challenges/challenge-2.js)
   
 </div>
 
@@ -49,23 +53,13 @@ This repository documents the solutions for each challenge, with the goal of:
 
 <div align="center">
 
-### Challenge-3: **Escape Freddy’s Nightmare** 🎃🌌
+### Challenge# 3: **Escape Freddy’s Nightmare** 🎃🌌
 
-[![Challenge Description for Day 3](./2024/assets/challenge-03.webp)](https://www.halloween.dev/es/retos/2024/3)
+<a href="https://www.halloween.dev/es/retos/2024/3" target="_blank">
+    <img src="./2024/assets/challenge-03.webp" alt="Challenge Description for Day 3" width="300"/>
+</a>
 
-📂 [View solution](./2024/challenges/challenge-3.js)
-
-</div>
-
----
-
-<div align="center">
-
-### Challenge-4: **Find the Killer** 🔪🩸
-
-[![Challenge Description for Day 4](./2024/assets/challenge-04.webp)](https://www.halloween.dev/es/retos/2024/4)
-
- 📂 [View solution](./2024/challenges/challenge-4.js)
+👉 📂 [View solution](./2024/challenges/challenge-3.js)
 
 </div>
 
@@ -73,11 +67,27 @@ This repository documents the solutions for each challenge, with the goal of:
 
 <div align="center">
 
-### Challenge-5: **Silent Hill Terror** 👁️🧟‍♂️
+### Challenge# 4: **Find the Killer** 🔪🩸
 
-[![Challenge Description for Day 5](./2024/assets/challenge-05.webp)](https://www.halloween.dev/es/retos/2024/5)
+<a href="https://www.halloween.dev/es/retos/2024/4" target="_blank">
+    <img src="./2024/assets/challenge-04.webp" alt="Challenge Description for Day 4" width="300"/>
+</a>
 
-📂 [View solution](./2024/challenges/challenge-5.js)
+👉 📂 [View solution](./2024/challenges/challenge-4.js)
+
+</div>
+
+---
+
+<div align="center">
+
+### Challenge# 5: **Silent Hill Terror** 👁️🧟‍♂️
+
+<a href="https://www.halloween.dev/es/retos/2024/5" target="_blank">
+    <img src="./2024/assets/challenge-05.webp" alt="Challenge Description for Day 5" width="300"/>
+</a>
+
+👉 📂 [View solution](./2024/challenges/challenge-5.js)
 
 </div>
 
