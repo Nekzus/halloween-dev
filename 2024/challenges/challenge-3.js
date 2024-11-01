@@ -1,4 +1,4 @@
-export function findSafestPath(dream) {
+function findSafestPath(dream) {
   const rows = dream.length;
   const cols = dream[0].length;
   for (const [colIndex, _] of Array.from(dream[0].entries()).slice(1)) {

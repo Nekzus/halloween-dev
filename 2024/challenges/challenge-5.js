@@ -1,4 +1,4 @@
-export function escapePyramidHead(room) {
+function escapePyramidHead(room) {
   const directions = [
     [-1, 0],
     [1, 0],

@@ -1,4 +1,4 @@
-export function createMagicPotion(potions, target) {
+function createMagicPotion(potions, target) {
   const seenPotions = new Map();
   for (const [index, potion] of potions.entries()) {
     if (seenPotions.has(target - potion)) {

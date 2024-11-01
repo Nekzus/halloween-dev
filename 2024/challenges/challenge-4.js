@@ -1,4 +1,4 @@
-export function findTheKiller(whisper, suspects) {
+function findTheKiller(whisper, suspects) {
   const regex = new RegExp(
     `^${whisper.replace(/~/g, "([a-zA-Z])").replace(/\$$/, "$")}`,
     "i"
