@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🎃 Halloween Dev Challenges 🎃
 
-![Retos de Programación Terroríficos](./2024/assets/header.png)
+[![Retos de Programación Terroríficos](./2024/assets/header.webp)](https://www.halloween.dev/es)
+
+</div>
 
 This repository contains the solutions to the **Halloween Dev** challenges organized by [@midudev](https://midu.dev/). **Halloween Dev** is a special Halloween-inspired programming event designed to test your skills with spooky and fun challenges that celebrate the spirit of the season.
 
@@ -19,48 +23,63 @@ This repository documents the solutions for each challenge, with the goal of:
 
 ### 2024
 
-#### Challenge-1: **Create the Perfect Potion** 🧙‍♂️🍵
+<div align="center">
 
-![Challenge Description for Day 1](./2024/assets/reto-01.png)
+### Challenge-1: **Create the Perfect Potion** 🧙‍♂️🍵
 
-- 🌐 [Go to the challenge on Halloween Dev](https://www.halloween.dev/es/reto-dia-1)
-- 📂 [View solution in the repository](./solutions/day-1)
+[![Challenge Description for Day 1](./2024/assets/challenge-01.webp)](https://www.halloween.dev/es/retos/2024/1)
 
----
-
-#### Challenge-2: **Zombie Horde** 🧟‍♂️🪦
-
-![Challenge Description for Day 2](./2024/assets/reto-02.png)
-
-- 🌐 [Go to the challenge on Halloween Dev](https://www.halloween.dev/es/reto-dia-2)
-- 📂 [View solution in the repository](./solutions/day-2)
+📂 [View solution](./2024/challenges/challenge-1.js)
+  
+</div>
 
 ---
 
-#### Challenge-3: **Escape Freddy’s Nightmare** 🎃🌌
+<div align="center">
 
-![Challenge Description for Day 3](./2024/assets/reto-03.png)
+### Challenge-2: **Zombie Horde** 🧟‍♂️🪦
 
-- 🌐 [Go to the challenge on Halloween Dev](https://www.halloween.dev/es/reto-dia-3)
-- 📂 [View solution in the repository](./solutions/day-3)
+[![Challenge Description for Day 2](./2024/assets/challenge-02.webp)](https://www.halloween.dev/es/retos/2024/2)
 
----
-
-#### Challenge-4: **Find the Killer** 🔪🩸
-
-![Challenge Description for Day 4](./2024/assets/reto-04.png)
-
-- 🌐 [Go to the challenge on Halloween Dev](https://www.halloween.dev/es/reto-dia-4)
-- 📂 [View solution in the repository](./solutions/day-4)
+📂 [View solution](./2024/challenges/challenge-2.js)
+  
+</div>
 
 ---
 
-#### Challenge-5: **Silent Hill Terror** 👁️🧟‍♂️
+<div align="center">
 
-![Challenge Description for Day 5](./2024/assets/reto-05.png)
+### Challenge-3: **Escape Freddy’s Nightmare** 🎃🌌
 
-- 🌐 [Go to the challenge on Halloween Dev](https://www.halloween.dev/es/reto-dia-5)
-- 📂 [View solution in the repository](./solutions/day-5)
+[![Challenge Description for Day 3](./2024/assets/challenge-03.webp)](https://www.halloween.dev/es/retos/2024/3)
+
+📂 [View solution](./2024/challenges/challenge-3.js)
+
+</div>
+
+---
+
+<div align="center">
+
+### Challenge-4: **Find the Killer** 🔪🩸
+
+[![Challenge Description for Day 4](./2024/assets/challenge-04.webp)](https://www.halloween.dev/es/retos/2024/4)
+
+ 📂 [View solution](./2024/challenges/challenge-4.js)
+
+</div>
+
+---
+
+<div align="center">
+
+### Challenge-5: **Silent Hill Terror** 👁️🧟‍♂️
+
+[![Challenge Description for Day 5](./2024/assets/challenge-05.webp)](https://www.halloween.dev/es/retos/2024/5)
+
+📂 [View solution](./2024/challenges/challenge-5.js)
+
+</div>
 
 ---
 
