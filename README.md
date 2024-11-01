@@ -107,5 +107,8 @@ This repository documents the solutions for each challenge, with the goal of:
 Contributions are welcome 🎉. If you have optimization ideas, improvements to the solutions, or want to add your own versions, feel free to fork this repository and submit a pull request.
 
 ---
+<div align="center">
 
-Enjoy a Halloween full of challenges and coding fun! 👻🎃🕸️
+🕸️🎃👻 Enjoy a Halloween full of challenges and coding fun! 👻🎃🕸️
+
+</div>
